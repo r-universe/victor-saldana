@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "epcc"]
+	path = epcc
+	url = https://github.com/victor-saldana/epcc
+	shallow = true
+	registered = true
